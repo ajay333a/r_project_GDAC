@@ -1,5 +1,5 @@
 # Effect of Treatments on leaves of species
-  **First project with used for analysis of post grad experiment data.**
+  **First project with R used for analysis of post grad experiment data.**
 
 ## 1. `treatment_effect.R`
   This is the script file created for the analysis of data.
